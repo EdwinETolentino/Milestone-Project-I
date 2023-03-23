@@ -1,0 +1,1 @@
+let username = window.prompt ("Welcome! What is your name?")
