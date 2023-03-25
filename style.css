@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#playButton {
+    text-decoration: none;
+    background-color: grey;
+    border-radius: 40px;
+    width: 20%;
+    text-align: center;
+    padding: 30px 6px 30px 6px;
+    margin: auto;
+    margin-bottom: 20%;
+}
+.intro{
+    font-size: 70px;
+}
+h1 {
+border: 10px;
+border-style: solid;
+border-color: darkblue ;
+padding: 1px 3px;
+margin-left: 35%;
+margin-right: 35%;
+}
